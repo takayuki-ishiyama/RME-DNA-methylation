@@ -13,7 +13,7 @@ accessible.
 The analysis scripts and accompanying documentation have also been deposited
 in a public code repository at:
 
-[INSERT PUBLIC REPOSITORY URL]
+https://github.com/takayuki-ishiyama/RME-DNA-methylation
 
 The repository contains scripts for preprocessing and quality control,
 differential methylation analysis, sensitivity analyses, and KEGG pathway
