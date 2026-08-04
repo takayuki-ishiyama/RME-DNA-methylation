@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "DNA Methylation Changes Following Rapid Maxillary Expansion in Children"
+type: software
+authors:
+  - family-names: Ishiyama
+    given-names: Takayuki
+repository-code: "INSERT_GITHUB_URL"
+date-released: 2026-08-04
+license: MIT

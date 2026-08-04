@@ -1,0 +1,23 @@
+Response to Editorial Comment 1
+
+Comment:
+To ensure reproducibility, please make the raw code and dataset publicly
+available in a public repository and provide an accessible link.
+
+Response:
+Thank you for this important comment. The raw IDAT files and processed
+DNA-methylation beta-value matrix have been deposited in the NCBI Gene
+Expression Omnibus under accession GSE317740 and have been made publicly
+accessible.
+
+The analysis scripts and accompanying documentation have also been deposited
+in a public code repository at:
+
+[INSERT PUBLIC REPOSITORY URL]
+
+The repository contains scripts for preprocessing and quality control,
+differential methylation analysis, sensitivity analyses, and KEGG pathway
+over-representation analysis, together with a README file describing the
+required inputs, software versions, and scope of the recovered code.
+
+The Data Availability statement in the manuscript has been updated accordingly.

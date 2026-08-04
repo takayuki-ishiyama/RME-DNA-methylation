@@ -1,0 +1,3 @@
+sentrix_key,sample_id,subject_id,Group,Time,treatment_period,device,sex,age,Epithelial,Immune
+208234690088_R01C01,EXAMPLE-01pre,EXAMPLE-01,Treatment,Pre,129,No,F,10,0.25,0.72
+208234690088_R02C01,EXAMPLE-01post,EXAMPLE-01,Treatment,Post,129,No,F,10,0.24,0.74
