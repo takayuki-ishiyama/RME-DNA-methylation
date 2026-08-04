@@ -1,12 +1,17 @@
 # DNA Methylation Changes Following Rapid Maxillary Expansion in Children
 
-R code accompanying the manuscript submitted to *Scientific Reports*.
+R code accompanying the manuscript:
+
+**DNA Methylation Changes Following Rapid Maxillary Expansion in Children**
+
+Submitted to *Scientific Reports*.
 
 ## Author
 
 Takayuki Ishiyama  
 Department of Orthodontics  
-Kanagawa Dental University
+Kanagawa Dental University  
+Yokosuka, Kanagawa, Japan
 
 ## Data availability
 
