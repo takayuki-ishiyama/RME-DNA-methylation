@@ -5,6 +5,6 @@ type: software
 authors:
   - family-names: Ishiyama
     given-names: Takayuki
-repository-code: "INSERT_GITHUB_URL"
+repository-code: "https://github.com/takayuki-ishiyama/RME-DNA-methylation"
 date-released: 2026-08-04
 license: MIT
